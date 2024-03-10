@@ -1,0 +1,125 @@
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_Bd.woff2)format('woff2');
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_BdIt.woff2)format('woff2');
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_He.woff2)format('woff2');
+    font-weight: 800;
+    font-style: normal
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_HeIt.woff2)format('woff2');
+    font-weight: 800;
+    font-style: italic
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_Lt.woff2)format('woff2');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_LtIt.woff2)format('woff2');
+    font-weight: 300;
+    font-style: italic
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_Rg.woff2)format('woff2');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_RgIt.woff2)format('woff2');
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_SBd.woff2)format('woff2');
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_SBdIt.woff2)format('woff2');
+    font-weight: 600;
+    font-style: italic
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_Th.woff2)format('woff2');
+    font-weight: 200;
+    font-style: normal
+}
+
+@font-face {
+    font-family: amazon ember wide;
+    src: url(../webfonts/AmazonEmber_W_ThIt.woff2)format('woff2');
+    font-weight: 200;
+    font-style: italic
+}
+
+@font-face {
+    font-family: bookerly lcd;
+    src: url(../webfonts/BookerlyLCD_W_Bd.woff2)format('woff2');
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: bookerly lcd;
+    src: url(../webfonts/BookerlyLCD_W_BdIt.woff2)format('woff2');
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: bookerly lcd;
+    src: url(../webfonts/BookerlyLCD_W_Lt.woff2)format('woff2');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: bookerly lcd;
+    src: url(../webfonts/BookerlyLCD_W_LtIt.woff2)format('woff2');
+    font-weight: 300;
+    font-style: italic
+}
+
+@font-face {
+    font-family: bookerly lcd;
+    src: url(../webfonts/BookerlyLCD_W_Rg.woff2)format('woff2');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: bookerly lcd;
+    src: url(../webfonts/BookerlyLCD_W_RgIt.woff2)format('woff2');
+    font-weight: 400;
+    font-style: italic
+}
