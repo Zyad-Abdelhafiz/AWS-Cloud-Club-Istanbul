@@ -14,7 +14,7 @@
 
 ## Website’s Link
 
-Demo Website: [CloudClubSite](https://zyad-abdelhafiz.github.io/cloudClubSite/)
+Demo Website: [CloudClubSite]([https://zyad-abdelhafiz.github.io/cloudClubSite/](https://zyad-abdelhafiz.github.io/AWS-Cloud-Club-Istanbul/))
 
 ## Canvas Links
 These designs were created on Canva to replace missing images.
